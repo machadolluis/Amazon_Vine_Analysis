@@ -9,16 +9,16 @@ This analysis uses PySpark to perform the ETL process to extract the dataset, tr
 
 * Vine Reviews:
 
-![](/images/total_paid_reviews)
-![](/images/paid_star_reviews)
-![](/images/paid_star_percent)
+![](/images/total_paid_reviews.png)
+![](/images/paid_star_reviews.png)
+![](/images/paid_star_percent.png)
 To avoid division by zero, a try/except statement was used to state that there are no Vine reviews on this specific dataset for Digital Software Purchases at Amazon.
 
 * Non-Vine Reviews:
 
-![](/images/total_unpaid_reviews)
-![](/images/unpaid_star_reviews)
-![](/images/unpaid_star_percent)
+![](/images/total_unpaid_reviews.png)
+![](/images/unpaid_star_reviews.png)
+![](/images/unpaid_star_percent.png)
 
 ## Summary
 
